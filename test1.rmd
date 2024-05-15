@@ -1,7 +1,0 @@
-# Test the Github
-```{r}
-age <- 20
-year <- 2024
-birth date <- year - age
-birth date
-```
